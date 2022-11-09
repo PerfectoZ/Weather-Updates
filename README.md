@@ -16,7 +16,7 @@ application with any dependencies.
 
 5. Copy your script or project to this repository's folder
 
-6. Replace "script.py" with the path to your main executable file in
+6. Replace "main.py" with the path to your main executable file in
    `Procfile`. For details about `Procfile` refer to the [docs](https://devcenter.heroku.com/articles/procfile).
    If you need to run web application, you have to use `web` instead of `worker`.
 
