@@ -1,0 +1,52 @@
+{
+    'coord': 
+    {
+        'lon': 77.0483, 
+        'lat': 28.7932
+    }, 
+    'weather': 
+    [
+        {
+            'id': 800, 
+            'main': 'Clear', 
+            'description': 'clear sky', 
+            'icon': '01n'
+        }
+    ], 
+    'base': 'stations', 
+    'main': 
+    {
+        'temp': 295.22, 
+        'feels_like': 294.81, 
+        'temp_min': 295.22, 
+        'temp_max': 295.22, 
+        'pressure': 1014, 
+        'humidity': 51, 
+        'sea_level': 1014, 
+        'grnd_level': 989
+    }, 
+    'visibility': 10000, 
+    'wind': 
+    {
+        'speed': 2.44, 
+        'deg': 54, 
+        'gust': 3.12
+    }, 
+    'clouds': 
+    {
+        'all': 7
+    }, 
+    'dt': 1667855548, 
+    'sys': 
+    {
+        'type': 1,
+        'id': 9165,
+        'country': 'IN',
+        'sunrise': 1667869740,
+        'sunset': 1667908926
+    },
+    'timezone': 19800, 
+    'id': 1276663, 
+    'name': 'Bawāna', 
+    'cod': 200
+}
