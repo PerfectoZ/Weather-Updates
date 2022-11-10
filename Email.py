@@ -8,7 +8,7 @@ def SendMail(message=None):
     server = smtplib.SMTP('smtp.gmail.com',587)
     server.starttls()
     message = MIMEText(message).as_string()
-    server.login('zalutskiyperfecto@gmail.com','gtoaroaibldrtuih')
+    server.login('zalutskiyperfecto@gmail.com','[password]')
     for recipient in recipients :
         server.sendmail('zalutskiyperfecto@gmail.com',recipient,message)
     server.quit()
