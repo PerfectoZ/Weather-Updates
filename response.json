@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": 77.2867,
+        "lat": 28.6189
+    },
+    "weather": [
+        {
+            "id": 721,
+            "main": "Haze",
+            "description": "haze",
+            "icon": "50d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 301.3,
+        "feels_like": 301.09,
+        "temp_min": 301.3,
+        "temp_max": 301.3,
+        "pressure": 1016,
+        "humidity": 42
+    },
+    "visibility": 2800,
+    "wind": {
+        "speed": 2.57,
+        "deg": 300
+    },
+    "clouds": {
+        "all": 5
+    },
+    "dt": 1668074024,
+    "sys": {
+        "type": 1,
+        "id": 9165,
+        "country": "IN",
+        "sunrise": 1668042560,
+        "sunset": 1668081613
+    },
+    "timezone": 19800,
+    "id": 1273435,
+    "name": "Darya Ganj",
+    "cod": 200
+}
