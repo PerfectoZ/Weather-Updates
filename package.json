@@ -1,0 +1,20 @@
+{
+    "name": "Weather-Updates",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "build": "echo \"No build specified\" && exit 1",
+        "test": "echo \"No test specified\" && exit 1",
+        "start": "python3 main.py"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/PerfectoZ/Weather-Updates.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/PerfectoZ/Weather-Updates/issues"
+    },
+    "homepage": "https://github.com/PerfectoZ/Weather-Updates#readme"
+}
