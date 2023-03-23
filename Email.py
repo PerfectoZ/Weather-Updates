@@ -8,7 +8,7 @@ smtp = smtplib.SMTP('smtp.gmail.com', 587)
 smtp.ehlo()
 smtp.starttls()
 
-smtp.login('zalutskiyperfecto@gmail.com','[password]')
+smtp.login('immortalgrenadiers@gmail.com','vevmifylquwgjonk')
 
 recipients = ['mandeeptaneja2000@gmail.com']
 
@@ -35,6 +35,5 @@ def pack(subject="",text="",img=None,attachment=None):
 
 def SendMail(message=None):
     msg = pack("Weather Updates",message)
-    smtp.sendmail(from_addr="perfectozalutskiy@gmail.com",to_addrs=recipients,msg=msg.as_string())
+    smtp.sendmail(from_addr="immortalgrenadiers@gmail.com",to_addrs=recipients,msg=msg.as_string())
     smtp.quit()
-
